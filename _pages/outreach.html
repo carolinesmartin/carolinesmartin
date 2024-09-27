@@ -12,8 +12,6 @@
   </style>
 </head>
 <body>
-<p class="p1"><span class="s1">--- layout: archive title: “Outreach” permalink: /outreach/ author_profile: true --- {% if site.talkmap_link == true %}</span></p>
-<p class="p1"><span class="s1">Outreach</span></p>
-<p class="p1"><span class="s1">{% endif %} {% for post in site.talks reversed %} {% include archive-single-talk.html %} {% endfor %}</span></p>
+<p class="p1"><span class="s1">--- layout: archive title: “Outreach” permalink: /outreach/ author_profile:<span class="Apple-converted-space">  </span>true --- {% include base_path %} {% for post in site.teaching reversed %} {% include archive-single.html %} {% endfor %}</span></p>
 </body>
 </html>
