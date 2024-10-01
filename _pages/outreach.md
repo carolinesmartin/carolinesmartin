@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-![WOW STEM Logo](/images/wowstemlogo.png =100x20)
+<img src="/images/wowstemlogo.png" alt ="WOW STEM Logo" width="200" height="200" />
 One side project that I'm most passionate about is an educational platform I've co-founded called A World of Women in STEM ([wowstem.org](http://wowstem.org "WOW STEM")).
 
 WOW STEM is an online space for curious young girls to get inspired by other women+ scientists, both historic and modern. By increasing the visibility of women and gender minorities in STEM, I hope to enable young students to imagine themselves as scientists and encourage their curiosity about the world around them. 
