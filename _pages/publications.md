@@ -8,6 +8,14 @@ author_profile: true
 {% include base_path %}
 You can also check out my [Google Scholar profile](https://scholar.google.com/citations?user=su9_FyYAAAAJ&hl=en)
 
+## Colloidal crystallization on cones
+
+Jessica H. Sun, Grace H. Zhang, Abigail Plummer, Caroline Martin, Nabila Tanjeem, David R. Nelson, Vinothan N. Manoharan
+
+[Download paper here](http://carolinesmartin.github.io/files/cones.pdf)
+
+Recommended citation: Jessica H. Sun, Grace H. Zhang, Abigail Plummer, Caroline Martin, Nabila Tanjeem, David R. Nelson, and Vinothan N. Manoharan. 1/3/2025. Colloidal Crystallization on Cones. Physical Review Letters, 134. doi:10.1103/PhysRevLett.134.018201
+
 ## Inferring interaction potentials from stochastic particle trajectories
 
 Ella M. King, Megan Engel, Caroline Martin, Sam Schoenholz, Vinothan N. Manoharan, and Michael Brenner
@@ -15,7 +23,6 @@ Ella M. King, Megan Engel, Caroline Martin, Sam Schoenholz, Vinothan N. Manohara
 [Download paper here](http://carolinesmartin.github.io/files/inferring-potentials.pdf)
 
 Recommended citation: Ella M. King, Megan Engel, Caroline Martin, Sam Schoenholz, Vinothan N. Manoharan, and Michael Brenner.  In review at Physical Review Research. “Inferring interaction potentials from stochastic particle trajectories”.
-
 
 ## Precise characterization of nanometer-scale systems using interferometric scattering microscopy and Bayesian analysis
 
@@ -50,7 +57,7 @@ Madelyn Leembruggen and Caroline Martin
 
 [Download paper here](http://carolinesmartin.github.io/files/whats-for-lunch.pdf)
 
-Recommended citation: Madelyn Leembruggen and Caroline Martin. 4/1/2022. “What’s for Lunch? A systematic ordering of foods in the Soup-Salad-Sandwich phase space”.
+Recommended citation: Madelyn Leembruggen and Caroline Martin. 4/1/2022. “What’s for Lunch? A systematic ordering of foods in the Soup-Salad-Sandwich phase space.”
 
 
 ## Improving holographic particle characterization by modeling spherical aberration
