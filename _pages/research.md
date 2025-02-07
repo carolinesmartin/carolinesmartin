@@ -5,18 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 
-{% include base_path %}
-<p align="left" style="float: left; margin-right: 20px;">
-  <img src="/images/wowstemlogo.png" alt ="WOW STEM Logo" width="150">
-</p>
+### Mechanics of cell mergers in the human placenta
+I'm currently working in the Yevick lab to understand the mechanobiology of the formation of syncytiotrophoblasts, which are huge multinuclear cells that protect the fetal-mother barrier during pregnancy. Through physical perturbation of model cell systems and statistical analysis of cell merger events, I hope to develop a physical model to better understand the formation and failure of these biomaterials
+
+### Precision measurements of colloidal forces
+I worked to improve methods to track colloidal spheres in 3D space and applied those methods to infer forces between colloidal spheres. I improved data analysis techniques for extracting information with an imaging technique called holographic microscopy, allowing me to resolve the motion of colloidal spheres to nanometer-scale precision. I used these precise particle trajectories to extract physical information such as the underlying particle pair potential between the spheres.
+
+### Inferring interactions from stochastic trajectories
+In collaboration with members of Michael Brenner's group, including Ella King and Megan Engal, I helped to develop a framework for understanding bulk particle interactions by analyzing the two-dimensional trajectories. Using machine learning, we inferred the underlying particle pair potential from experimental videos of many interacting particles.
+
+### Improving particle characterization with holographic microscopy
+I've also worked on developing better tools to watch and characterize colloids with light scattering methods like holographic microscopy and dynamic light scattering. I worked to improve characterization and tracking of colloidal particles using holographic microscopy by including optical effects in generative models, and to characterize the effects of spherical aberrations on holography through experiment and simulation.
 
 
-One side project that I'm most passionate about is an educational platform I've co-founded called A World of Women in STEM ([wowstem.org](http://wowstem.org "WOW STEM")). WOW STEM is an online space for curious young girls to get inspired by other women+ scientists, both historic and modern. By increasing the visibility of women and gender minorities in STEM, I hope to enable young students to imagine themselves as scientists and encourage their curiosity about the world around them. 
-
-I'm lead writer for WOW STEM, but I also edit video scripts, write and research blog posts, and sometimes even star in the content we're making. I hope you check us out, and follow our social media pages to learn more about the amazing women+ who have contributed to STEM research throughout history! 
-
-<div style="text-align:center"><img src="/images/wowstemportrait.png" alt ="WOW STEM Portrait" width="450" /></div>
-
-
-
- [YouTube](https://www.youtube.com/channel/UCkAyTOTNOLm4AMw61ZaDvqA "YouTube WOW STEM") | [TikTok](https://vm.tiktok.com/ZMdRuWMUA/ "TikTok WOW STEM") | [Twitter](https://twitter.com/wowstem "Twitter WOW STEM")| [Instagram](https://www.instagram.com/wowstem "Instagram WOW STEM")
