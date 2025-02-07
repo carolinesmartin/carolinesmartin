@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 <p align="left" style="float: left; margin-right: 15px;">
-  <img src="/images/fusion.png" alt ="WOW STEM Logo" width="230">
+  <img src="/images/fusion.png" alt ="Cells Fusing on Protein Pattern" width="250">
 </p>
 
 ### Mechanics of cell mergers in the human placenta
@@ -13,7 +13,7 @@ I'm currently working in the Yevick lab to understand the mechanobiology of the 
 
 <br>
 <p align="left" style="float: left; margin-right: 15px;">
-  <img src="/images/holo_potential.png" alt ="WOW STEM Logo" width="250">
+  <img src="/images/holo_potential.png" alt ="Holographic measurement of particle pair potentials" width="250">
 </p>
 
 ### Precision measurements of colloidal forces
@@ -21,7 +21,7 @@ I worked to improve methods to track colloidal spheres in 3D space and applied t
 
 <br>
 <p align="left" style="float: left; margin-right: 15px;">
-  <img src="/images/inferring_potentials.png" alt ="WOW STEM Logo" width="250">
+  <img src="/images/inferring_potentials.png" alt ="Inferring potentials from stochastic trajectories" width="250">
 </p>
 
 ### Inferring interactions from stochastic trajectories
@@ -29,7 +29,7 @@ In collaboration with members of Michael Brenner's group, including Ella King an
 
 <br>
 <p align="left" style="float: left; margin-right: 15px;">
-  <img src="/images/ab_holo.png" alt ="WOW STEM Logo" width="250">
+  <img src="/images/ab_holo.png" alt ="Spherical aberration in holography" width="250">
 </p>
 
 ### Improving particle characterization with holographic microscopy
