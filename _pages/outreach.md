@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 <p align="left" style="float: left; margin-right: 20px;">
-  <img src="/images/wowstemlogo.png" alt ="WOW STEM Logo" width="200">
+  <img src="/images/wowstemlogo.png" alt ="WOW STEM Logo" width="150">
 </p>
 
 
@@ -16,5 +16,7 @@ One side project that I'm most passionate about is an educational platform I've 
 I'm lead writer for WOW STEM, but I also edit video scripts, write and research blog posts, and sometimes even star in the content we're making. I hope you check us out, and follow our social media pages to learn more about the amazing women+ who have contributed to STEM research throughout history! 
 
 <div style="text-align:center"><img src="/images/wowstemportrait.png" alt ="WOW STEM Portrait" width="450" /></div>
+
+
 
  [YouTube](https://www.youtube.com/channel/UCkAyTOTNOLm4AMw61ZaDvqA "YouTube WOW STEM") | [TikTok](https://vm.tiktok.com/ZMdRuWMUA/ "TikTok WOW STEM") | [Twitter](https://twitter.com/wowstem "Twitter WOW STEM")| [Instagram](https://www.instagram.com/wowstem "Instagram WOW STEM")
