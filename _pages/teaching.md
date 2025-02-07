@@ -6,10 +6,17 @@ author_profile: true
 ---
 
 {% include base_path %}
+## Introduction to Soft Matter Physics, Brown University Pre-College Program
+
+Co-Instructor: Summer 2025
+
+Developing curriculum, labs, and problem sets for an introductory summer course on soft matter physics, scheduled for summer 2025.
+
 
 ## Physical Sciences 12a: Mechanics and Statistical Physics from an Analytic, Numerical and Experimental Perspective
 
 Lab TA: Spring 2024
+
 Section TA: Spring 2020
 
 Taught weekly sections for problem solving and computational skills for undergraduate students majoring in engineering and facilitated flipped classroom lectures. Also facilitated lab sections for experimental and numerical methods.
