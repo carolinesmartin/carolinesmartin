@@ -77,11 +77,18 @@ Brian Leahy, Ronald Alexander, Caroline Martin, Solomon Barkley, and Vinothan Ma
 
 Recommended citation: Brian Leahy, Ronald Alexander, Caroline Martin, Solomon Barkley, and Vinothan Manoharan. 1/2020. “Large depth-of-field tracking of colloidal spheres in holographic microscopy by modeling the objective lens.” Optics Express, 28, 2, Pp. 1061-1075.
 
+## Precision Measurements of Colloidal Dynamics with Holographic Microscopy
+
+Caroline Martin
+
+[Download thesis here](http://carolinesmartin.github.io/files/grad_thesis.pdf)
+
+Recommended citation: Caroline Martin. 4/29/2024. “Precision Measurements of Colloidal Dynamics with Holographic Microscopy.” Harvard University, John A. Paulson School of Engineering and Applied Sciences, Department of Applied Physics.
 
 ## Application of Bayesian Inference to Analysis of Dynamic Light Scattering Data to Determine Particle Size Distributions
 
 Caroline Martin
 
-[Download paper here](http://carolinesmartin.github.io/files/bayesian-dls.pdf)
+[Download thesis here](http://carolinesmartin.github.io/files/bayesian-dls.pdf)
 
 Recommended citation: Caroline Martin. 6/5/2018. “Application of Bayesian Inference to Analysis of Dynamic Light Scattering Data to Determine Particle Size Distributions.” Wellesley College Department of Physics.
