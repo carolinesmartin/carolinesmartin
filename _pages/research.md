@@ -11,7 +11,7 @@ author_profile: true
 ### Mechanics of cell mergers in the human placenta
 I'm currently working in the Yevick lab to understand the mechanobiology of the formation of syncytiotrophoblasts, which are huge multinuclear cells that protect the fetal-mother barrier during pregnancy. Through physical perturbation of model cell systems and statistical analysis of cell merger events, I hope to develop a physical model to better understand the formation and failure of these biomaterials
 
-
+<br>
 <p align="left" style="float: left; margin-right: 15px;">
   <img src="/images/holo_potential.png" alt ="WOW STEM Logo" width="250">
 </p>
@@ -19,7 +19,7 @@ I'm currently working in the Yevick lab to understand the mechanobiology of the 
 ### Precision measurements of colloidal forces
 I worked to improve methods to track colloidal spheres in 3D space and applied those methods to infer forces between colloidal spheres. I improved data analysis techniques for extracting information with an imaging technique called holographic microscopy, allowing me to resolve the motion of colloidal spheres to nanometer-scale precision. I used these precise particle trajectories to extract physical information such as the underlying particle pair potential between the spheres.
 
-
+<br>
 <p align="left" style="float: left; margin-right: 15px;">
   <img src="/images/inferring_potentials.png" alt ="WOW STEM Logo" width="250">
 </p>
@@ -27,7 +27,7 @@ I worked to improve methods to track colloidal spheres in 3D space and applied t
 ### Inferring interactions from stochastic trajectories
 In collaboration with members of Michael Brenner's group, including Ella King and Megan Engal, I helped to develop a framework for understanding bulk particle interactions by analyzing the two-dimensional trajectories. Using machine learning, we inferred the underlying particle pair potential from experimental videos of many interacting particles.
 
-
+<br>
 <p align="left" style="float: left; margin-right: 15px;">
   <img src="/images/ab_holo.png" alt ="WOW STEM Logo" width="250">
 </p>
