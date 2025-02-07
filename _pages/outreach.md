@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 <p align="left" style="float: left; margin-right: 20px;">
-  <img src="/images/wowstemlogo.png" alt ="WOW STEM Logo" width="150">
+  <img src="/images/wowstemlogo.png" alt ="WOW STEM Logo" width="225">
 </p>
 
 
